@@ -1,4 +1,3 @@
-
 /**
  * File: musicianModel.ts
  * Author: Priyanka Saxena

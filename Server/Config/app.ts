@@ -1,3 +1,10 @@
+/**
+ * File: app.ts
+ * Author: Priyanka Saxena
+ * StudentID: 200583643
+ * Date: 2024-06-21
+ */
+
 import createError, { HttpError } from 'http-errors';
 import express, { Request, Response, NextFunction } from 'express';
 import path from 'path';

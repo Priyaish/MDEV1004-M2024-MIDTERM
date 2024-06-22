@@ -1,5 +1,5 @@
 /**
- * File: musicianRoutes.ts
+ * File: indexRoutes.ts
  * Author: Priyanka Saxena
  * StudentID: 200583643
  * Date: 2024-06-21
